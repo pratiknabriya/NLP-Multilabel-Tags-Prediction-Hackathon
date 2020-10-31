@@ -1,4 +1,4 @@
-# NLP-Multilabel-Tags-Prediction-Hackathon
+# NLP Hackathon: Predicting multiple tags of Research Articles 
 
 ## Problem Description
 
@@ -37,4 +37,3 @@ https://medium.com/analytics-vidhya/nlp-hackathon-how-i-got-into-top-15-using-a-
 ## My Performance
 
 Public Score: 0.7685393258  | Private Score: 0.7708477938  | Leaderboard Rank: 13th  
-
