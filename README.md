@@ -11,17 +11,11 @@ Earlier on the Independence Day we conducted a Hackathon to predict the topics f
 Given the abstracts for a set of research articles, predict the tags for each article included in the test set. 
 Note that a research article can possibly have multiple tags. The research article abstracts are sourced from the following 4 topics: 
 
-1. Computer Science
-
-2. Mathematics
-
-3. Physics
-
-4. Statistics
+[Computer Science, Mathematics, Physics, Statistics]
 
 List of possible tags are as follows:
 
-[Tags, Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]
+[Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]
 
 ### Evaluation Metric
 Submissions are evaluated on micro F1 Score between the predicted and observed tags for each article in the test set.
