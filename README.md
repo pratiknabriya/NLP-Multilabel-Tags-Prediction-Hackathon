@@ -23,6 +23,18 @@ List of possible tags are as follows:
 
 [Tags, Analysis of PDEs, Applications, Artificial Intelligence,Astrophysics of Galaxies, Computation and Language, Computer Vision and Pattern Recognition, Cosmology and Nongalactic Astrophysics, Data Structures and Algorithms, Differential Geometry, Earth and Planetary Astrophysics, Fluid Dynamics,Information Theory, Instrumentation and Methods for Astrophysics, Machine Learning, Materials Science, Methodology, Number Theory, Optimization and Control, Representation Theory, Robotics, Social and Information Networks, Statistics Theory, Strongly Correlated Electrons, Superconductivity, Systems and Control]
 
-For more info on problem and downloading datasets, visit: https://medium.com/r/?url=https%3A%2F%2Fdatahack.analyticsvidhya.com%2Fcontest%2Fhacklive-3-guided-hackathon-text-classification%2F%23ProblemStatement
+### Evaluation Metric
+Submissions are evaluated on micro F1 Score between the predicted and observed tags for each article in the test set.
 
+For more info on problem and downloading datasets, visit: https://datahack.analyticsvidhya.com/contest/hacklive-3-guided-hackathon-text-classification/#ProblemStatement
+
+## My Approach 
+I have shared my approach in this Medium article - 
+
+https://medium.com/analytics-vidhya/nlp-hackathon-how-i-got-into-top-15-using-a-logistic-regression-based-technique-for-multi-label-4d9c343d9686
+
+
+## My Performance
+
+Public Score: 0.7685393258  | Private Score: 0.7708477938  | Leaderboard Rank: 13th  
 
